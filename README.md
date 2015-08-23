@@ -15,13 +15,14 @@ run_analysis.R performs the following steps:
 ## Codebook
 * Subject: A numeric ID identifying the subject
 * Activity: A description of the activity the subject was performing
-** WALKING: subject was walking
-** WALKING_UPSTAIRS: subject was walking upward
-** WALKING_DOWNSTAIRS: subject walking downward
-** SITTING: subject was sitting 
-** STANDING: subject was standing 
-** LAYING: subject was laying down 
-### These are followed by the mean and std measures
+- WALKING: subject was walking
+- WALKING_UPSTAIRS: subject was walking upward
+- WALKING_DOWNSTAIRS: subject walking downward
+- SITTING: subject was sitting 
+- STANDING: subject was standing 
+- LAYING: subject was laying down 
+
+These are followed by the mean and std measures
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
